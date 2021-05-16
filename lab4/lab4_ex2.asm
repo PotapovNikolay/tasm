@@ -1,3 +1,4 @@
+;светофор
 text        segment 'code'
             assume cs: text, ds: data
 dely proc
